@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, My name is Fathin Fayyadh</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - Mastered techology **Laravel, Boostrap, Tailwind, Jquery, MySql, Ms.Excel**
 
 - My linkedin [https://www.linkedin.com/in/fathin-fayyadh-451017196/](https://www.linkedin.com/in/fathin-fayyadh-451017196/)
